@@ -4,7 +4,7 @@ alias iossim="/Applications/Xcode.app/Contents/Developer/Applications/Simulator.
 alias iphonex="/Applications/Xcode.app/Contents/Developer/Applications/Simulator.app/Contents/MacOS/Simulator --CurrentDeviceUDID com.apple.CoreSimulator.SimDeviceType.iPhone-X"
 alias burnitalldown='rm -rf node_modules && npm install'
 alias cheatsheet='curl cht.sh'
-alias pico8-'/Applications/PICO-8.app/Contents/MacOS/pico8'
+alias pico8='/Applications/PICO-8.app/Contents/MacOS/pico8'
 alias love='/Applications/love.app/Contents/MacOS/love'
 alias ngrok='~/ngrok'
 alias crun='dotnet build && dotnet run'
